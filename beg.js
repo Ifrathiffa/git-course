@@ -1,5 +1,5 @@
 let user=prompt("Enter the user name:", "");
-if (user=="Admin"){
+if (user=="admin"){
     let pass=prompt("Enter the password:", "");
     if (pass=="TheMaster"){
         console.log("Welcome!");
