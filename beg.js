@@ -1,7 +1,7 @@
 let user=prompt("Enter the user name:", "");
-if (user=="admin"){
+if (user=="Admin"){
     let pass=prompt("Enter the password:", "");
-    if (pass=="Legend"){
+    if (pass=="TheMaster"){
         console.log("Welcome!");
     }else if (pass==="" || pass===null){
         console.log("Cancelled");
