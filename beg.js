@@ -14,3 +14,5 @@ if (user=="Admin"){
 }else {
     console.log("I don't know you");
 }
+
+console.log("Code by Skipper");
