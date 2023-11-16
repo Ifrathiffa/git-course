@@ -15,4 +15,4 @@ if (user=="Admin"){
     console.log("I don't know you");
 }
 
-console.log("Code by Skipper");
+console.log("Code by Sky");
